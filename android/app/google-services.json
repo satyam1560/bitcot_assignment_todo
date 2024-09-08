@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194183694689",
+    "project_id": "todo-cada2",
+    "storage_bucket": "todo-cada2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194183694689:android:2843df0c5302c5d85e9d20",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXA11fUC_HpHqURyL330JwRAzr2iQxq9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
